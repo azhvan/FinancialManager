@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  DB.cpp
+  ExpensesMenu.cpp
+  FinancialManager.cpp
+  Menu.cpp
+  Methods.cpp
+C:\Users\Артем\Desktop\FinancialManager\FinancialManager\Methods.cpp(42,7): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FinancialManager.vcxproj -> C:\Users\Артем\Desktop\FinancialManager\Release\FinancialManager.exe
